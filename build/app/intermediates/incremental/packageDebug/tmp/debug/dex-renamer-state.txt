@@ -1,0 +1,4 @@
+#Tue Oct 11 14:28:22 EAT 2022
+base.0=/home/musila/Documents/Projects/softlab/kyeni/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
